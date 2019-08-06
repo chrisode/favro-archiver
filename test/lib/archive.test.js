@@ -6,9 +6,9 @@ const dataHelpers = require("../helpers/dataHelpers");
 const chai = require("chai");
 const expect = chai.expect;
 
-const closeIssue = require("../../lib/closeIssue");
+const archive = require("../../lib/archive");
 
-Scenario("CloseIssue", () => {
+Scenario("Archive done cards", () => {
   let columns, doneCards, api, archivedResult;
   Given("Backlog cards exists", () => {
     api = new FavroNock();
@@ -41,7 +41,7 @@ Scenario("CloseIssue", () => {
   });
 
   When("Looking for cards to archive", (done) => {
-    closeIssue({ boardId: "board", backlogId: "backlog", name: "test" }, (err, res) => {
+    archive({ boardId: "board", backlogId: "backlog", name: "test" }, (err, res) => {
       done(err);
       archivedResult = res;
     });
@@ -60,7 +60,7 @@ Scenario("CloseIssue", () => {
   });
 });
 
-Scenario("CloseIssue with specified done column", () => {
+Scenario("Archive done cards in specified done column", () => {
   let backlogCards, columns, doneCards, api;
   Given("Backlog cards exists", () => {
     api = new FavroNock();
@@ -98,7 +98,7 @@ Scenario("CloseIssue with specified done column", () => {
   });
 
   When("Looking for cards to archive", (done) => {
-    closeIssue({
+    archive({
       boardId: "board", backlogId: "backlog",
       doneColumn: "Finished"
     }, () => {
@@ -111,7 +111,7 @@ Scenario("CloseIssue with specified done column", () => {
   });
 });
 
-Scenario("Closeissues on multiple backlogs", () => {
+Scenario("Archive done cards in multiple backlogs", () => {
   let columns, doneCards, api, archivedResult;
   Given("Backlog 1 cards exists", () => {
     api = new FavroNock();
@@ -154,7 +154,7 @@ Scenario("Closeissues on multiple backlogs", () => {
   });
 
   When("Looking for cards to archive", (done) => {
-    closeIssue({ boardId: "board", backlogId: ["backlog1", "backlog2"], name: "test" }, (err, res) => {
+    archive({ boardId: "board", backlogId: ["backlog1", "backlog2"], name: "test" }, (err, res) => {
       done(err);
       archivedResult = res;
     });

@@ -1,11 +1,11 @@
 "use strict";
 
 const async = require("async");
-const closeIssues = require("./lib/closeIssue");
+const archive = require("./lib/archive");
 const secrets = require("./config/secrets.json");
 
 const collections = secrets.collections.map((collection) => {
-  return runCollection.bind(null, collection);
+  return archiveCollection.bind(null, collection);
 });
 
 async.parallel(collections, (err, archivedCardsList) => {
@@ -21,9 +21,9 @@ async.parallel(collections, (err, archivedCardsList) => {
   });
 });
 
-function runCollection(collection, callback) {
+function archiveCollection(collection, callback) {
   if (collection.active !== true) return callback(null, null);
-  closeIssues(options(collection), callback);
+  archive(options(collection), callback);
 }
 
 function options(collection) {
