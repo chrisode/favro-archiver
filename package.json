@@ -1,0 +1,25 @@
+{
+  "name": "favro-archive-donecards",
+  "version": "1.0.0",
+  "description": "Archives cards in favro collections",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha && eslint . --cache"
+  },
+  "author": "christoffer@delitech.se",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "5.2.0",
+    "mocha": "^6.2.0",
+    "mocha-cakes-2": "^3.3.0",
+    "nock": "^10.0.6"
+  }
+}

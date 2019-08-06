@@ -1,0 +1,34 @@
+{
+  "entities": [
+    {
+      "columnId": "6135d6fa3b3d1d48102cf436",
+      "name": "Doing",
+      "organizationId": "a75be0396fe39314c7ac300f",
+      "widgetCommonId": "41ef319f21aa6e33966663ef",
+      "position": 1,
+      "cardCount": 1,
+      "timeSum": 0,
+      "estimationSum": 0
+    },
+    {
+      "columnId": "9ef593b5d9f6609ac36eb30d",
+      "name": "Done",
+      "organizationId": "a75be0396fe39314c7ac300f",
+      "widgetCommonId": "41ef319f21aa6e33966663ef",
+      "position": 0,
+      "cardCount": 2,
+      "timeSum": 0,
+      "estimationSum": 0
+    },
+    {
+      "columnId": "e452bb2c2b0660b372cb356d",
+      "name": "Todo",
+      "organizationId": "a75be0396fe39314c7ac300f",
+      "widgetCommonId": "41ef319f21aa6e33966663ef",
+      "position": 2,
+      "cardCount": 0,
+      "timeSum": 0,
+      "estimationSum": 0
+    }
+  ]
+}

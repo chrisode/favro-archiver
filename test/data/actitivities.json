@@ -1,0 +1,138 @@
+{
+    "entities": [
+        {
+            "type": "remove",
+            "source": "news and follow",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "widgetCommonId": "6ef9fa9a7403aa19edd3d9cc",
+            "widgetName": "PRODUCT BACKLOG",
+            "columnId": null,
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "time": "2018-06-29T07:15:33.396Z",
+            "byUserId": "jo8GMLismfbDWPtKv"
+        },
+        {
+            "type": "archive",
+            "source": "follow",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "widgetCommonId": "6ef9fa9a7403aa19edd3d9cc",
+            "columnId": null,
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "time": "2018-03-22T13:37:35.206Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "rename",
+            "source": "follow",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "widgetCommonId": "6ef9fa9a7403aa19edd3d9cc",
+            "widgetName": "PRODUCT BACKLOG",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "time": "2018-03-21T14:09:15.887Z",
+            "byUserId": "2v3TkpgsbKuaWbuzr"
+        },
+        {
+            "type": "updated customfield",
+            "source": "news",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "customFieldName": "Card Type",
+            "customFieldValue": "STORY",
+            "time": "2018-03-12T14:40:15.637Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "updated customfield",
+            "source": "news",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "customFieldName": "Color",
+            "customFieldValue": "lightgreen",
+            "time": "2018-03-12T14:39:29.921Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "add task",
+            "source": "news",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "taskName": "Redirect BOM1 to use BIde instead of BOM2",
+            "time": "2018-03-09T09:27:47.944Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "add task",
+            "source": "news",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "taskName": "Create DFP advertiser integration",
+            "time": "2018-03-09T09:27:00.335Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "updated customfield",
+            "source": "news",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "customFieldName": "Estimation",
+            "customFieldValue": "3 p",
+            "time": "2018-03-09T09:26:13.590Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "add task",
+            "source": "news",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "taskName": "Add endpoint to Bide",
+            "time": "2018-03-09T09:25:03.361Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "add task",
+            "source": "news",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "taskName": "When I do/don't do this, this happens/does not happen",
+            "time": "2018-03-07T14:04:11.576Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        },
+        {
+            "type": "create",
+            "source": "news and follow",
+            "cardId": "312781e72feb13fa7f794f9c",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "cardName": "STORY | As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "widgetCommonId": "6ef9fa9a7403aa19edd3d9cc",
+            "widgetName": "PRODUCT BACKLOG",
+            "columnId": null,
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "time": "2018-03-07T14:04:11.536Z",
+            "byUserId": "zMGRZCFf7jqx2BTAE"
+        }
+    ],
+    "limit": 100,
+    "page": 0,
+    "pages": 1,
+    "requestId": "62b4260e75988b3aaa806cdf"
+}

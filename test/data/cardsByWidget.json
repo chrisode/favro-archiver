@@ -1,0 +1,418 @@
+{
+    "entities": [
+        {
+            "cardId": "00137daafb8e7e717447f848",
+            "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": -0.75,
+            "name": "As an adops I need to be able to create advertisers from BOM, so that I don't have to ask an Admin to do it for me",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "tags": [],
+            "sequentialId": 1740,
+            "assignments": [],
+            "tasksTotal": 2,
+            "tasksDone": 2,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 3
+                },
+                {
+                    "customFieldId": "MrZrGpdfvPpx8dfiX",
+                    "color": "lightgreen"
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 1053355861,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 1053355915,
+                "4ae72a3c671b181d993434fa": 16480625234
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "02d8e359564b8d657b337657",
+            "cardCommonId": "b82622d2c1efb16d1cbe81d5",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": -3.5,
+            "name": "BAM: Välja vad som ärvs",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "detailedDescription": "As a TPL I want to be able to select what my node will inherit, So that I don't inherit everything from my parent",
+            "tags": [],
+            "sequentialId": 1748,
+            "assignments": [],
+            "tasksTotal": 0,
+            "tasksDone": 0,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 5
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 3526239149,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "88858b453d106d1383d8e59a": 173760101,
+                "4ae72a3c671b181d993434fa": 16998352856
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "0777051672e3d952c5a56b06",
+            "cardCommonId": "8407703d37cd0c77e49258da",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": -3,
+            "name": "Improve test coverage by implementing test for frontend fetch of BAM",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "detailedDescription": "Test should look like the display ads feature test",
+            "tags": [],
+            "sequentialId": 1751,
+            "assignments": [
+                {
+                    "userId": "gXXbQNXei2M4FciYJ",
+                    "completed": true
+                }
+            ],
+            "tasksTotal": 1,
+            "tasksDone": 0,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 3
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                },
+                {
+                    "customFieldId": "MrZrGpdfvPpx8dfiX",
+                    "color": "lightgreen"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 2838076681,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 1936,
+                "9710a3b00a42259f480f5ce5": 70137865,
+                "4ae72a3c671b181d993434fa": 16413856799
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "5884d9df1402c75e12b9c89a",
+            "cardCommonId": "c9ce1fab178f09235a27e214",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": -4,
+            "name": "As an adops I need to be able to create an order in DFP from BOM, so that I don't have to do it manually in DFP",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "tags": [],
+            "sequentialId": 1739,
+            "assignments": [
+                {
+                    "userId": "RzccvfvHaFZeof2vv",
+                    "completed": false
+                },
+                {
+                    "userId": "mPpbT2ctTS2RHYv4Q",
+                    "completed": false
+                },
+                {
+                    "userId": "2v3TkpgsbKuaWbuzr",
+                    "completed": true
+                }
+            ],
+            "tasksTotal": 4,
+            "tasksDone": 4,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 8
+                },
+                {
+                    "customFieldId": "MrZrGpdfvPpx8dfiX",
+                    "color": "lightgreen"
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 3885845166,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 606326016,
+                "9710a3b00a42259f480f5ce5": 552399871,
+                "88858b453d106d1383d8e59a": 45886690,
+                "4ae72a3c671b181d993434fa": 16327167153
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "83e921e6351c6e3e62576fbb",
+            "cardCommonId": "deaa5ea9dbbc3e3f5d191225",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": -1,
+            "name": "As a programatic specialist I want to include Adform in the headerbidder, So that I can help Bonnier News increase revenue",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "tags": [
+                "KjHBr4weze4r9o9j5"
+            ],
+            "sequentialId": 1762,
+            "assignments": [
+                {
+                    "userId": "gXXbQNXei2M4FciYJ",
+                    "completed": true
+                }
+            ],
+            "tasksTotal": 7,
+            "tasksDone": 7,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 5
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                },
+                {
+                    "customFieldId": "MrZrGpdfvPpx8dfiX",
+                    "color": "lightgreen"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 162299057,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 68048984,
+                "9710a3b00a42259f480f5ce5": 94250106,
+                "4ae72a3c671b181d993434fa": 16485516450
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "b1b0ad072f2439a20e015b91",
+            "cardCommonId": "ece3c90b1047a99690489d50",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": 0,
+            "name": "STORY | As a programatic specialist I want to include Criteo in the headerbidder for HDSyd, So that I can help Bonnier News increase revenue",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "tags": [
+                "KjHBr4weze4r9o9j5"
+            ],
+            "sequentialId": 1759,
+            "assignments": [],
+            "tasksTotal": 2,
+            "tasksDone": 2,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 1
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                },
+                {
+                    "customFieldId": "MrZrGpdfvPpx8dfiX",
+                    "color": "lightgreen"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 323293517,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 323293555,
+                "4ae72a3c671b181d993434fa": 17274321652
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "b82f85d5e6d5a9c13c80db21",
+            "cardCommonId": "66b98c4ebdc0b8a89a1a4b21",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": -0.5,
+            "name": "TASK: Discuss how the job queue should work",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "detailedDescription": "Update conditions in Story in a small meeting",
+            "tags": [],
+            "sequentialId": 1770,
+            "assignments": [],
+            "tasksTotal": 0,
+            "tasksDone": 0,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 1
+                },
+                {
+                    "customFieldId": "MrZrGpdfvPpx8dfiX",
+                    "color": "yellow"
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "TASK"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 1051919199,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 961676628,
+                "88858b453d106d1383d8e59a": 90242600,
+                "4ae72a3c671b181d993434fa": 16480935634
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "e6103a3a44ef5f2129fc436f",
+            "cardCommonId": "ffa45a9a775878d6c2755acc",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": 2,
+            "name": "As a Salesperson I want to be able to book Rollercoaster ads for desktop, So that I don't need to use Adssets to produce it",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "4ae72a3c671b181d993434fa",
+            "isLane": false,
+            "parentCardId": null,
+            "detailedDescription": "Example of faux parallax desktop ad http://gallery.smartadserver.com/parallax\n\nExample of fixed background\nhttps://ampbyexample.com/components/amp-fx-flying-carpet/\nhttps://www.w3schools.com/howto/tryhow_css_parallax_demo.htm",
+            "tags": [],
+            "sequentialId": 1708,
+            "assignments": [
+                {
+                    "userId": "gXXbQNXei2M4FciYJ",
+                    "completed": true
+                },
+                {
+                    "userId": "2v3TkpgsbKuaWbuzr",
+                    "completed": true
+                }
+            ],
+            "tasksTotal": 11,
+            "tasksDone": 11,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 8
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                },
+                {
+                    "customFieldId": "MrZrGpdfvPpx8dfiX",
+                    "color": "lightgreen"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 1026676050,
+                "isStopped": true
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 81895135,
+                "9710a3b00a42259f480f5ce5": 934623757,
+                "88858b453d106d1383d8e59a": 10157191,
+                "4ae72a3c671b181d993434fa": 16570229417
+            },
+            "favroAttachments": []
+        },
+        {
+            "cardId": "ef110ecf76cd46a70b1d97e6",
+            "cardCommonId": "ca6b09f11e3cd2e047a4219d",
+            "organizationId": "a75be0396fe39314c7ac300f",
+            "archived": false,
+            "position": -2,
+            "name": "Lägga till JustPremium i prebid",
+            "widgetCommonId": "42c346572f8119799d5e432f",
+            "columnId": "b169e4071933ca5c4d5930a3",
+            "isLane": false,
+            "parentCardId": null,
+            "detailedDescription": "As a programatic specialist I want to include JustPremium in the headerbidding, So that I can help Bonnier News increase revenue",
+            "tags": [
+                "KjHBr4weze4r9o9j5"
+            ],
+            "sequentialId": 1758,
+            "assignments": [],
+            "tasksTotal": 8,
+            "tasksDone": 0,
+            "attachments": [],
+            "customFields": [
+                {
+                    "customFieldId": "o5RjjEeSGb26uzxus",
+                    "total": 8
+                },
+                {
+                    "customFieldId": "vtF3WdXL8ku3K4SQG",
+                    "value": "STORY"
+                }
+            ],
+            "timeOnBoard": {
+                "time": 17596962815,
+                "isStopped": false
+            },
+            "timeOnColumns": {
+                "b169e4071933ca5c4d5930a3": 9654241658
+            },
+            "favroAttachments": []
+        }
+    ],
+    "limit": 100,
+    "page": 0,
+    "pages": 1,
+    "requestId": "e161ea573bba8ccfb4932f23"
+}

@@ -1,0 +1,41 @@
+{
+  "cardId": "00137daafb8e7e717447f848",
+  "cardCommonId": "efc1f1b7f323e41780b5d3d7",
+  "organizationId": "a75be0396fe39314c7ac300f",
+  "archived": false,
+  "position": -0.75,
+  "name": "This is a testcard",
+  "widgetCommonId": "42c346572f8119799d5e432f",
+  "columnId": "4ae72a3c671b181d993434fa",
+  "isLane": false,
+  "parentCardId": null,
+  "tags": [],
+  "sequentialId": 1740,
+  "assignments": [],
+  "tasksTotal": 2,
+  "tasksDone": 2,
+  "attachments": [],
+  "customFields": [
+      {
+          "customFieldId": "o5RjjEeSGb26uzxus",
+          "total": 3
+      },
+      {
+          "customFieldId": "MrZrGpdfvPpx8dfiX",
+          "color": "lightgreen"
+      },
+      {
+          "customFieldId": "vtF3WdXL8ku3K4SQG",
+          "value": "STORY"
+      }
+  ],
+  "timeOnBoard": {
+      "time": 1053355861,
+      "isStopped": true
+  },
+  "timeOnColumns": {
+      "b169e4071933ca5c4d5930a3": 1053355915,
+      "4ae72a3c671b181d993434fa": 16480625234
+  },
+  "favroAttachments": []
+}

@@ -1,0 +1,42 @@
+# Dependency directory and npm log
+node_modules
+tmp
+npm-debug.log
+
+# Code coverage results
+/coverage
+
+# Built package
+/*.tgz
+
+# Project files
+.tern-port
+.tern-project
+.idea
+*.iml
+*.sw[a-z]
+
+# Compiled client resources
+/public
+/src
+
+# Cache
+.eslintcache
+
+# Revision file
+config/_revision
+
+# OS X
+.DS_Store
+
+# The .env file is developer local and should never be checked in
+.env
+
+*.sublime-project
+*.sublime-workspace
+
+# Atom CTAGS
+.tags
+
+# Secrets config
+config/secrets.json
