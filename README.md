@@ -3,7 +3,7 @@
 This is a script that archives all completed cards in your backlog. The completion status is determined from a done column in your board, the name of this is configurable. 
 Status on tickets in one board can update multiple backlogs. 
 
-The script uses the the [https://favro.com/developer/](Favro rest api) to do this.
+The script uses the the [Favro rest api](https://favro.com/developer/) to do this.
 
 ## Setup
 
@@ -12,7 +12,7 @@ Then you need to get your Favro API authentication and links to the boards and b
 
 ### Setting up Favro API Authentication
 
-You authorize to your organisation by using a users email and a token generated for that user. Some information on the API authentication can be found [https://favro.com/developer/#authentication](here).
+You authorize to your organisation by using a users email and a token generated for that user. Some information on the API authentication can be found [here](https://favro.com/developer/#authentication).
 
 
 **organizationId**
