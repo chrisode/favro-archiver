@@ -3,9 +3,6 @@
 const FavroNock = require("../helpers/FavroNock");
 const dataHelpers = require("../helpers/dataHelpers");
 
-const chai = require("chai");
-const expect = chai.expect;
-
 const archive = require("../../lib/archive");
 
 Scenario("Archive done cards", () => {

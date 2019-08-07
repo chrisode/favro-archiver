@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Archives cards in favro collections",
   "main": "app.js",
+  "repository": "git@github.com:chrisode/favro-archiver.git",
   "directories": {
     "test": "test"
   },
