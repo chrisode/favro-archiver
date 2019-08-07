@@ -8,7 +8,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha && eslint . --cache"
+    "test": "mocha && eslint . --cache",
+    "docker": "docker run -it $(docker build -q .)"
   },
   "author": "christoffer@delitech.se",
   "license": "ISC",
