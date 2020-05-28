@@ -18,7 +18,7 @@ Scenario("Fetching", () => {
   });
 
   When("fetching", (done) => {
-    favroApi.fetch(path, true, (err, res) => {
+    favroApi.fetch(path, undefined, (err, res) => {
       fetched = res;
       done(err);
     });

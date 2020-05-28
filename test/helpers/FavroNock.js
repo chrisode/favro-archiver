@@ -22,7 +22,7 @@ class FavroNock {
         ++req.called;
         req.backend = this.req.headers["x-favro-backend-identifier"];
         req.headers.push(this.req.headers);
-        return JSON.stringify(data);
+        return data;
       }, { "x-favro-backend-identifier": backend });
     return backend;
   }
