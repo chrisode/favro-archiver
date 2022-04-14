@@ -14,7 +14,7 @@
   "author": "christoffer@delitech.se",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.3",
+    "async": "^3.2.2",
     "needle": "^2.5.0"
   },
   "devDependencies": {
